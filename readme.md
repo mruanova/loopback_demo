@@ -10,7 +10,7 @@ mongodb://animalsUsername:loopbackRocks123@aws-us-east-1-portal.26.dblayer.com:1
 lb model
 Animal
 
-# ccess control list
+# Access control list
 lb acl
 Animal
 All methods and properties
